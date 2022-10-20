@@ -11341,3 +11341,12 @@ body.sidebar-toggled footer.sticky-footer {
   width: 100%;
 }
 
+.carousel-item {
+  height: 300px;
+}
+
+.carouselExampleCaptions {
+  padding: 10px;
+}
+
+
